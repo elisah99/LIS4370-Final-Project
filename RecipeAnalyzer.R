@@ -88,3 +88,5 @@ scaled_recipe <- data.frame(
 # Generate shopping list
 shopping_list <- generate_shopping_list(scaled_recipe)
 print(shopping_list)
+
+
